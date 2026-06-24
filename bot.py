@@ -29,7 +29,7 @@ import weather_api as wx
 # ─────────────────────────────────────────────────────────────
 #  CONFIG
 # ─────────────────────────────────────────────────────────────
-TOKEN = os.getenv("DISCORD_TOKEN", "MTUxOTM4NTIzNzI3MDk1ODIyMQ.GhQWbq.0DZ9o5fZhjJ_q8_hA4hGvP-ohxYCKPTY2nnaAY")
+TOKEN = os.getenv("DISCORD_TOKEN", "MTA1MzU5MzIzMTYwODI2NjgwMw.GMGW-g.HB06nIMP_IYG0qBGJAkm_w2ENv8ZPhnB_Wp8ak")
 CONFIG_FILE = "config.json"
 DEFAULT_TZ = "Asia/Kolkata"      # timezone for the daily post time
 ACCENT = 0xFFFFFF                # white accent bar on cards (#FFFFFF)
